@@ -8,7 +8,7 @@ const Footer = () => (
     </div>
 
     <div className="gpt3__footer-btn">
-      <a href = 'https://honorable-spruce-121.notion.site/Ethan-Havemann-Further-Information-2c0edf1098d6437daf7cef492090d2fb' target = "_blank" rel = "noreferrer">Further Information</a>
+      <a href = 'https://honorable-spruce-121.notion.site/Website-Further-Information-2c0edf1098d6437daf7cef492090d2fb' target = "_blank" rel = "noreferrer">Further Information</a>
     </div>
 
     <div className="gpt3__footer-links">
@@ -17,9 +17,9 @@ const Footer = () => (
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Links</h4>
-        <p>Work History</p>
+        <a href = 'https://honorable-spruce-121.notion.site/Complete-Work-History-ab435e6b1c34480895cf6939704d5bac' target = "_blank" rel='noreferrer'>Work History</a>
         <a href = 'https://www.linkedin.com/in/ethan-havemann/' target = "_blank" rel="noreferrer">LinkedIn</a>
-        <p>Extended Showcase</p>
+        <a href = 'https://honorable-spruce-121.notion.site/Complete-Projects-History-6dd395c8956f48708ea5cf2658541b50' target = '_blank' rel = 'noreferrer'>Extended Showcase</a>
         <a href = 'https://github.com/echavemann' target = "_blank" rel="noreferrer" >Github</a>
       </div>
       <div className="gpt3__footer-links_div">
