@@ -15,9 +15,9 @@ const Blog = () => (
       </div>
       <div className="gpt3__blog-container_groupB">
         <Article imgUrl={blog02} date="October 2021 - Present" text="Bobot" description='Ongoing project to build a full-stack boba-ordering application, as well as a 3D printed and CNC manufactured robotic arm to execute said orders.' />
-        <Article imgUrl={blog03} date="July 2022 - Present" text="AI Real Estate" description='Data analytic project focused on using machine-learning to identify housing market trends and predict future hotspots. '/>
+        <Article imgUrl={blog03} date="July 2022 - Present" text="AI Real Estate" description='Data analytics project focused on using machine-learning to identify housing market trends and predict future hotspots. '/>
         <Article imgUrl={blog04} date="January 2022 - June 2022" text="Optimize.Meet" description='A productivity webapp designed by individuals drastically in need of them. '/>
-        <Article imgUrl={blog05} date="August 2021 - November 2021" text="Spotify Matcher" description='Simple application to grab spotify history and genres, adn then match users with other users based on their music tastes.' />
+        <Article imgUrl={blog05} date="August 2021 - November 2021" text="Spotify Matcher" description='Simple application to grab spotify history and genres, and then match users with other users based on their music taste.' />
       </div>
     </div>
   </div>
