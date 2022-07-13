@@ -7,7 +7,7 @@ const Blog = () => (
   <div className="gpt3__blog section__padding" id="blog">
     <div className="gpt3__blog-heading">
       <h1 className="gradient__text">Personal <br /> Projects.</h1>
-      <h2 className='ghco'>github.com/echavemann</h2>
+      <h2 className='ghco'><a href = "https://github.com/echavemann" target = "_blank" rel="noreferrer">github.com/echavemann</a></h2>
     </div>
     <div className="gpt3__blog-container">
       <div className="gpt3__blog-container_groupA">

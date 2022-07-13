@@ -8,7 +8,7 @@ const Footer = () => (
     </div>
 
     <div className="gpt3__footer-btn">
-      <a href = ''>Further Information</a>
+      <a href = 'https://honorable-spruce-121.notion.site/Ethan-Havemann-Further-Information-2c0edf1098d6437daf7cef492090d2fb' target = "_blank" rel = "noreferrer">Further Information</a>
     </div>
 
     <div className="gpt3__footer-links">
