@@ -8,7 +8,7 @@ const Footer = () => (
     </div>
 
     <div className="gpt3__footer-btn">
-      <a href = 'https://Northwestern.edu'>Further Information</a>
+      <a href = ''>Further Information</a>
     </div>
 
     <div className="gpt3__footer-links">
@@ -18,15 +18,15 @@ const Footer = () => (
       <div className="gpt3__footer-links_div">
         <h4>Links</h4>
         <p>Work History</p>
-        <a href = 'https://www.linkedin.com/in/ethan-havemann/'>LinkedIn</a>
+        <a href = 'https://www.linkedin.com/in/ethan-havemann/' target = "_blank" rel="noreferrer">LinkedIn</a>
         <p>Extended Showcase</p>
-        <a href = 'https://github.com/echavemann'>Github</a>
+        <a href = 'https://github.com/echavemann' target = "_blank" rel="noreferrer" >Github</a>
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Get in touch</h4>
         <p>972-795-4019</p>
         <p>ethavemann@gmail.com</p>
-        <p>ethaanhavemann2025@u.northwestern.edu</p>
+        <p>ethanhavemann2025@u.northwestern.edu</p>
       </div>
     </div>
 

@@ -8,7 +8,7 @@ const Resume = () => (
       <h3>Explore full professional resume here.</h3>
     </div>
     <div className="gpt3__cta-btn">
-      <a href = 'https://google.com'><button type="button">View Resume</button></a>
+      <a href = 'https://drive.google.com/file/d/18mrsSEggwS8T57p_VJJLBIEYIhNNu1nA/view?usp=sharing' target = "_blank" rel="noreferrer"><button type="button">View Resume</button></a>
     </div>
   </div>
 );
