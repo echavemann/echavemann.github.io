@@ -1,7 +1,7 @@
 import React from 'react';
-import './possibility.css';
+import './coursework.css';
 
-const Possibility = () => (
+const Coursework = () => (
   <div className="gpt3__possibility section__padding" id="Coursework">
     <div className="relevantcoursework">
       <h1 className="gradient__text">Relevant Coursework</h1>
@@ -15,4 +15,4 @@ const Possibility = () => (
   </div>
 );
 
-export default Possibility;
+export default Coursework;

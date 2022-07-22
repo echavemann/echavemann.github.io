@@ -1,6 +1,6 @@
 import React from 'react';
 import Feature from '../../components/feature/feature';
-import './features.css';
+import './workexp.css';
 
 const featuresData = [
   {
