@@ -1,6 +1,6 @@
 import React from 'react';
 import { Helmet } from 'react-helmet';
-import { Footer, Blog, Possibility, Features, AboutMe, Header } from './containers';
+import { Footer, Projects, Possibility, Features, AboutMe, Header } from './containers';
 import { Resume, Brand, Navbar } from './components';
 import './app.css';
 
@@ -21,7 +21,7 @@ const App = () => {
     <Features />
     <Possibility />
     <Resume />
-    <Blog />
+    <Projects />
     <Footer />
   </div>
   )

@@ -5,7 +5,7 @@ import './features.css';
 const featuresData = [
   {
     title: 'Software Engineering Intern @ Amazon',
-    text: 'Incoming, July-December 2022.',
+    text: 'Incoming, September-December 2022.',
   },
   {
     title: 'Signal Processing Engineer @ Acorn Genetics',
